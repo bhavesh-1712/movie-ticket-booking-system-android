@@ -1,8 +1,8 @@
 package com.softwarehub.movieticketbookingsystem.config;
 
 public class BaseURL {
-    public static String BASE_URL_MAIN = "http://movie-booking.sportsone.tk/api/";
-    public static String BASE_IMG = "http://movie-booking.sportsone.tk/";
+    public static String BASE_URL_MAIN = "http://movie-booking.diplomaguru.co.in/api/";
+    public static String BASE_IMG = "http://movie-booking.diplomaguru.co.in/";
 
     public static String REGISTER_USER = BASE_URL_MAIN + "user_register.php";
     public static String LOGIN_USER = BASE_URL_MAIN + "user_login.php";
